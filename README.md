@@ -29,4 +29,4 @@ Welcome to **Tic Tac Toe**, a modern take on the timeless classic! Play, compete
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/shekhfaisal2110/Tik_Tak_Toe/edit/main.git
+git clone https://github.com/shekhfaisal2110/Tik_Tak_Toe.git

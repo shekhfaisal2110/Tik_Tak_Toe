@@ -14,7 +14,7 @@ Welcome to **Tic Tac Toe**, a modern take on the timeless classic! Play, compete
 ---
 
 ## 🎥 Demo
-> 🌐 [Live Demo](https://shekhfaisal2110.github.io/Tik_Tac_Toe/)  
+> 🌐 [Live Demo](https://shekhfaisal2110.github.io/Tik_Tak_Toe/)  
 
 
 ---
@@ -29,4 +29,4 @@ Welcome to **Tic Tac Toe**, a modern take on the timeless classic! Play, compete
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/shekhfaisal2110/Tik_Tac_Toe.git
+git clone https://github.com/shekhfaisal2110/Tik_Tak_Toe/edit/main.git
